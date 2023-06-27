@@ -10,6 +10,7 @@
 
   <ItemGroup>
     <None Include="bin\Debug\net7.0\appsettings.json" />
+    <None Include="..\.editorconfig" />
   </ItemGroup>
   <ItemGroup>
     <PackageReference Include="MySql.Data" Version="8.0.33" />
